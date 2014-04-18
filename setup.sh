@@ -1,6 +1,4 @@
-
-
-ln - s dotfiles/.vimrc ~/.vimrc
-ln - s dotfiles/.bashrc ~/.bashrc
-ln - s dotfiles/.bash_profile ~/.bash_profile
-ln - s dotfiles/.vim ~/.vim
+/bin/cp ./.vimrc ~/.vimrc
+/bin/cp ./.bashrc ~/.bashrc
+/bin/cp ./.bash_profile ~/.bash_profile
+/bin/cp -r ./.vim ~/.vim
