@@ -15,6 +15,8 @@ NeoBundle 'kien/ctrlp.vim'
 NeoBundle 'flazz/vim-colorschemes'
 NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'vim-scripts/perl-support.vim'
+NeoBundle 'vim-scripts/AutoComplPop'
+NeoBundle 'vim-scripts/snipMate'
 
 NeoBundle 'Shougo/vimshell', { 'rev' : '3787e5' }
 
@@ -45,3 +47,4 @@ set ignorecase
 set smartindent
 set shiftwidth=4
 set expandtab
+
