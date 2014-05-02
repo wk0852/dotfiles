@@ -1,9 +1,11 @@
+AutoComplPop
 ctrlp.vim
 neobundle.vim
 neosnippet-snippets
 neosnippet.vim
 nerdtree
 perl-support.vim
+snipMate
 vim-colorschemes
 vim-fugitive
 vimshell
