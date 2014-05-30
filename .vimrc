@@ -17,6 +17,9 @@ NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'vim-scripts/perl-support.vim'
 NeoBundle 'vim-scripts/AutoComplPop'
 NeoBundle 'vim-scripts/snipMate'
+NeoBundle 'vim-scripts/taglist.vim'
+NeoBundle 'wesleyche/SrcExpl' 
+NeoBundle 'Lokaltog/vim-powerline.git'
 
 NeoBundle 'Shougo/vimshell', { 'rev' : '3787e5' }
 
