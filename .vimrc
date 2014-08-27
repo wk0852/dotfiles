@@ -8,12 +8,13 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 
 
 " My Bundles here:
+NeoBundle 'scrooloose/nerdtree'
+NeoBundle 'jistr/vim-nerdtree-tabs'
 NeoBundle 'Shougo/neosnippet.vim'
 NeoBundle 'Shougo/neosnippet-snippets'
 NeoBundle 'tpope/vim-fugitive'
 NeoBundle 'kien/ctrlp.vim'
 NeoBundle 'flazz/vim-colorschemes'
-NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'vim-scripts/perl-support.vim'
 NeoBundle 'vim-scripts/AutoComplPop'
 NeoBundle 'vim-scripts/snipMate'
